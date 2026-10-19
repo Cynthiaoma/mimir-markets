@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-348-feat-agents-add-a-batched-claim-reader-for",
+    "fix/issue-377-test-contracts-cross-check-settlesquadpool",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/issue-348-feat-agents-add-a-batched-claim-reader-for": "main",
+    "fix/issue-377-test-contracts-cross-check-settlesquadpool": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-348-feat-agents-add-a-batched-claim-reader-for",
+    "fix/issue-377-test-contracts-cross-check-settlesquadpool",
+    "origin"
+  ]
+}
